@@ -5,4 +5,7 @@ public class BaseController {
         System.out.println("rrrrrrrrrrrrrrrrrrrrrrrrrrrr");
     }
 
+    public static void main(String[] args) {
+        System.out.println("LLLLLLLLLLLLLLLLLLLLLLL");
+    }
 }
